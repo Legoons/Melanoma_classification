@@ -20,7 +20,7 @@ https://paperswithcode.com/sota/image-classification-on-imagenet
 
 이번 분석에는 대중적으로 사용하고 있는 Efficientnet중 efficient-b1가 기반인 코드를 사용하였습니다.
 
-efficient-b1~b4 를 ensemble 한 뒤, 여러 note들과 결과를 ensemble 하여 제출하였습니다.
+efficient-b1~b4 를 ensemble 한 뒤, 결과를 여러 note들과 ensemble 하여 제출하였습니다.
 
 
 # Efficient-net
