@@ -16,8 +16,11 @@ https://paperswithcode.com/sota/image-classification-on-imagenet
 
 ![effi](https://user-images.githubusercontent.com/50981989/90606537-ed927380-e23a-11ea-9d47-f87eed77a08f.PNG)
 
-2020년 8월 기준, Efficientnet기반의 모델이 효율적이고 빠른것을 볼 수 있으며, 
+2020년 8월 기준, Efficientnet기반의 모델인 FixEfficientnet-L2 가 SOTA(state-of-the-art) 이며 여러 efficient 기반 모델들이 성능이 좋은걸 알 수 있습니다.  
 
-대중적으로 사용하고 있는 Efficientnet중 efficient-b1가 기반인 코드를 사용하였습니다.
+이번 분석에는 대중적으로 사용하고 있는 Efficientnet중 efficient-b1가 기반인 코드를 사용하였습니다.
 
 efficient-b1~b4 를 ensemble 한 뒤, 여러 note들과 결과를 ensemble 하여 제출하였습니다.
+
+
+# Efficient-net
