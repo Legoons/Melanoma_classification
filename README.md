@@ -13,8 +13,11 @@ https://www.kaggle.com/c/siim-isic-melanoma-classification
 # Overview
 
 https://paperswithcode.com/sota/image-classification-on-imagenet
+
 ![effi](https://user-images.githubusercontent.com/50981989/90606537-ed927380-e23a-11ea-9d47-f87eed77a08f.PNG)
 
-2020년 8월 기준, Efficient-net이 효율적이고 빠른것을 볼 수 있으며, 대중적으로 사용하고 있는 Efficientnet중 efficient-b1을 사용하였습니다.
+2020년 8월 기준, Efficientnet기반의 모델이 효율적이고 빠른것을 볼 수 있으며, 
 
+대중적으로 사용하고 있는 Efficientnet중 efficient-b1가 기반인 코드를 사용하였습니다.
 
+efficient-b1~b4 를 ensemble 한 뒤, 여러 note들과 결과를 ensemble 하여 제출하였습니다.
