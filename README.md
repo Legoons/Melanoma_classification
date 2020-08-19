@@ -31,4 +31,4 @@ efficient-b1~b4 를 ensemble 한 뒤, 여러 note들과 결과를 ensemble 하�
 
 EfficientNet 논문은 ConvNets의 스케일을 높이는 기존 접근법을 다시 한번 짚고 넘어가자는 의미의 'Rethinking'을 논문의 타이틀로 사용하였습니다.
 
-Effi-net은 모델 스케일링 기법을 중점으로 다뤘으며, 최적 Width-Depth-Resolution 을 찾는것이 주 목적다.
+Effi-net은 모델 스케일링 기법을 중점으로 다뤘으며, 최적 Width-Depth-Resolution 을 찾는것이 주 목적입니다.
