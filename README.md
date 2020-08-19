@@ -27,10 +27,10 @@ efficient-b1~b4 를 ensemble 한 뒤, 여러 note들과 결과를 ensemble 하�
 
 ![eff1](https://user-images.githubusercontent.com/50981989/90620382-5387f680-e24d-11ea-8f6f-363ad7d2de80.PNG)
 
-논문의 연구결과를 보면 Efficientnet이 SEnet 과 Resnext 등의 모델보다 월등히 좋은것을 알 수 있다.
+논문의 연구결과를 보면 Efficientnet이 SEnet 과 Resnext 등의 모델보다 월등히 좋은것을 알 수 있습니다.
 
 ![eff2](https://user-images.githubusercontent.com/50981989/90620387-54b92380-e24d-11ea-8851-6220bd401a45.PNG)
 
-EfficientNet 논문은 ConvNets의 스케일을 높이는 기존 접근법을 다시 한번 짚고 넘어가자는 의미의 'Rethinking'을 논문의 타이틀로 사용하였다.
+EfficientNet 논문은 ConvNets의 스케일을 높이는 기존 접근법을 다시 한번 짚고 넘어가자는 의미의 'Rethinking'을 논문의 타이틀로 사용하였습니다.
 
-Effi-net은 모델 스케일링 기법을 중점으로 다뤘으며, 최적 Width-Depth-Resolution 을 찾는것이 주 목적이다.
+Effi-net은 모델 스케일링 기법을 중점으로 다뤘으며, 최적 Width-Depth-Resolution 을 찾는것이 주 목적다.
